@@ -1,4 +1,4 @@
-//URL: 
+//URL: https://codeforces.com/contest/2119/problem/A
 
 #include <bits/stdc++.h>
 using namespace std;
